@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+
+<suite name="BookingCom_FinalProject_Suite" verbose="2" parallel="none">
+
+    <test name="HomepageTest – URL, Title, Search Bar, Nav, Logo">
+        <classes>
+            <class name="HomepageTest"/>
+        </classes>
+    </test>
+
+    <test name="DatePickerTest – Check-In, Check-Out, Nights, Calendar">
+        <classes>
+            <class name="DatePickerTest"/>
+        </classes>
+    </test>
+
+    <test name="GuestRoomTest – Adults, Children, Rooms, Pets, Search">
+        <classes>
+            <class name="GuestRoomTest"/>
+        </classes>
+    </test>
+
+</suite>
