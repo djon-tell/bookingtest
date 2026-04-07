@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.9.dtd">
+
+
+<suite name="BookingTestSuite">
+
+
+
+    <test name="DjonTest">
+        <classes>
+            <class name="com.booking.tests.PropertyDetailTest"/>
+            <class name="com.booking.tests.LoginTest"/>
+            <class name="com.booking.tests.UIBehaviorTest"/>
+        </classes>
+    </test>
+
+
+
+</suite>
