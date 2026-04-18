@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="seli">
+    <CLASSES>
+      <root url="file://$USER_HOME$/seli" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/seli" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/seli" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/seli" recursive="false" type="SOURCES" />
+  </library>
+</component>
